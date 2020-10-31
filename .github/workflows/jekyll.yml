@@ -7,7 +7,7 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
+  build:allow edits 
 
     runs-on: ubuntu-latest
 
